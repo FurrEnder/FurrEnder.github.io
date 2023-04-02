@@ -1,8 +1,9 @@
 
-
-
-
-
+<html>
+<head> 
+</head>
+<body>
+<div style="background-image:url('https://cdn.discordapp.com/attachments/1040879422649147425/1092115014489477202/Puro1.jpg')">
 
 <head>
     <meta charset="UTF-8">
@@ -12,15 +13,12 @@
     <link rel="icon" href="./assets/favicon.gif">
     <meta property="og:url" content="https://tharki-god.github.io/">
     <meta property="og:image" content="https://github.com/FurrEnder/FurrEnder/blob/main/3-415f4eb88a.gif">
-    <meta name="twitter:card" content="summary_large_image">
     <meta name="theme-color" content="#080808">
     <meta property="og:description" content="∗But it refused.">
 
  </div>
 
-<body>
-<p style="background-image: url('https://cdn.discordapp.com/attachments/1040879422649147425/1092109444403429486/Masterpiece.JPG.jpg');">
-<div>
+
 
 <html lang="en"><head>
     <meta charset="UTF-8">
@@ -40,10 +38,9 @@
                 <div class="user-info">
                     <div id="username">FurrEnder # 0001</div>
 
-<a title="FurrEnder" href="https://discord.com/users/551168798074339333/"><img class="connection-icon" src="https://cdn.discordapp.com/avatars/551168798074339333/2546ac2522d11cf43d0178ccaf1ec6f3" alt="Discord"></a>
+<a title="FurrEnder" href="https://discord.com/users/551168798074339333/"><img class="connection-icon" src="https://github.com/FurrEnder/FurrEnder/blob/main/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord"></a>
 			
-
-        
+<img class="bgthing" src="https://cdn.discordapp.com/attachments/1040879422649147425/1092115014489477202/Puro1.jpg">
 
 
 
