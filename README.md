@@ -10,8 +10,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/main.css">
-    <link rel="icon" href="./assets/favicon.gif">
-    <meta property="og:url" content="https://tharki-god.github.io/">
+    <link rel="icon" href="https://github.com/FurrEnder/FurrEnder/blob/main/3-415f4eb88a.gif">
+    <meta property="og:url" content="https://furrender.github.io/">
     <meta property="og:image" content="https://github.com/FurrEnder/FurrEnder/blob/main/3-415f4eb88a.gif">
     <meta name="theme-color" content="#080808">
     <meta property="og:description" content="∗But it refused.">
@@ -38,9 +38,9 @@
                 <div class="user-info">
                     <div id="username">FurrEnder # 0001</div>
 
-<a title="FurrEnder" href="https://discord.com/users/551168798074339333/"><img class="connection-icon" src="https://github.com/FurrEnder/FurrEnder/blob/main/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="Discord"></a>
+<a title="FurrEnder" href="https://discord.com/users/551168798074339333/"><img class="connection-icon" src="https://user-images.githubusercontent.com/110977444/229365143-b24d2ddf-220d-4b83-b522-28f37abaef92.png" alt="Discord"></a>
 			
-<img class="bgthing" src="https://cdn.discordapp.com/attachments/1040879422649147425/1092115014489477202/Puro1.jpg">
+<img class="about me" src="https://cdn.discordapp.com/attachments/1040879422649147425/1092120970472456304/Screenshot_2023-04-02_091728.png">
 
 
 
@@ -54,18 +54,4 @@
     
 <body>
 
-<div class="card">
-            <div class="card-title">@FurrEnder &gt; about me</div>
-            <div class="about-me">
-                <header class="heading">about me</header>
-                <div class="bio">
-                    <ul>
-		    <li>∗Welcome to my profile, User</li>
-		    <li>∗Some idiot.</li>
-		    <li>∗Still alive.</li>                      
-                    </ul>                    
-                </div>
-            </div>
-        </div>
-    </div>
-    
+
