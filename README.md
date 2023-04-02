@@ -11,10 +11,10 @@
     <link rel="stylesheet" href="css/main.css">
     <link rel="icon" href="./assets/favicon.gif">
     <meta property="og:url" content="https://tharki-god.github.io/">
-    <meta property="og:image" content="https://raw.githubusercontent.com/Tharki-God/Tharki-God.github.io/main/assets/ogimage.gif">
+    <meta property="og:image" content="https://github.com/FurrEnder/FurrEnder/blob/main/3-415f4eb88a.gif">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="theme-color" content="#080808">
-    <meta property="og:description" content="dead inside">
+    <meta property="og:description" content="∗But it refused.">
 
  </div>
 
